@@ -3,7 +3,7 @@ using Tyuiu.SenachevAV.Sprint1.Task0.V16.Lib;
 
 namespace Tyuiu.SenachevAV.Sprint1.Task0.V16.Test
 {
-    [TestClass]
+    [TestClass] 
     public class DataServiceTest
     {
         [TestMethod]

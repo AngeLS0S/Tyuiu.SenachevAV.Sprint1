@@ -3,7 +3,7 @@ namespace Tyuiu.SenachevAV.Sprint1.Task0.V16.Lib
 {
     public class DataService : ISprint1Task0V16
     {
-        public double Calculate()  
+        public double Calculate()   
         {
             return 6 / 2 / 3 + 1 - 6 / 2 * 3;
         }
