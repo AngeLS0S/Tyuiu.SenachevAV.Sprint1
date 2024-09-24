@@ -1,5 +1,5 @@
 ﻿using Tyuiu.SenachevAV.Sprint1.Task4.V18.Lib;
-
+ 
 internal class Program
 {
     private static void Main(string[] args)
